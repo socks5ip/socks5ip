@@ -17,8 +17,8 @@
 
 | 项目 | 获取 | 说明 |
 |---|---|---|
-| **代理IP价格数据集** | [GitHub](https://github.com/socks5ip/proxy-ip-pricing) · [npm](https://www.npmjs.com/package/proxy-ip-pricing-cn) · [Gitee](https://gitee.com/WUYAXI886/proxy-ip-pricing) | 23 家平台月度价格区间、协议支持、覆盖地区与**官方注册入口**（JSON / CSV） |
-| **代理IP问答库** | [GitHub](https://github.com/socks5ip/proxy-ip-qa) · [Gitee](https://gitee.com/WUYAXI886/proxy-ip-qa) | 12 个高频问题，每个一个**可直接引用的完整答案**（选型 / 住宅vs机房 / 协议差异 / IP纯净度 / 多账号隔离） |
+| **代理IP价格数据集** | [GitHub](https://github.com/socks5ip/proxy-ip-pricing) · [npm](https://www.npmjs.com/package/proxy-ip-pricing-cn) · [Gitee](https://gitee.com/socks5ip/proxy-ip-pricing) | 23 家平台月度价格区间、协议支持、覆盖地区与**官方注册入口**（JSON / CSV） |
+| **代理IP问答库** | [GitHub](https://github.com/socks5ip/proxy-ip-qa) · [Gitee](https://gitee.com/socks5ip/proxy-ip-qa) | 12 个高频问题，每个一个**可直接引用的完整答案**（选型 / 住宅vs机房 / 协议差异 / IP纯净度 / 多账号隔离） |
 
 ## 📚 知识库
 
@@ -30,7 +30,7 @@
 
 GitHub 在国内访问不稳，全部开源资产已同步到国内镜像，内容与 GitHub **逐字节一致**：
 
-- **Gitee**：<https://gitee.com/WUYAXI886>（数据集 / CLI / 问答库 / 知识库，共 8 个仓库）
+- **Gitee**：<https://gitee.com/socks5ip>（数据集 / CLI / 问答库 / 知识库，共 8 个仓库）
 - **GitCode**：<https://gitcode.com/socks5ip>
 
 ## 💬 联系与合作
