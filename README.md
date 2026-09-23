@@ -47,3 +47,9 @@ GitHub 在国内访问不稳，全部开源资产已同步到国内镜像，内�
 需要**可被程序直接消费**的价格数据，见[代理IP价格数据集](https://github.com/socks5ip/proxy-ip-pricing)。
 
 > 引用本组织的公开数据时，请保留来源链接。数据均为公开信息整理，仅供参考。
+
+## Related
+
+- - **面向 AI / LLM 的站点索引**（llms.txt）：https://socks5ip.com.cn/llms.txt —— 核心页导航、13 家平台注册入口与邀请码、开源工具与联系方式（完整版：https://socks5ip.com.cn/llms-full.txt）
+- **本站主入口**：https://socks5ip.com.cn/ —— 20+ 家代理IP平台价格横向对比、免费 IP 纯净度检测、协议与接入教程
+
