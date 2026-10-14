@@ -17,7 +17,7 @@
 
 | 项目 | 获取 | 说明 |
 |---|---|---|
-| **代理IP价格数据集** | [GitHub](https://github.com/socks5ip/proxy-ip-pricing) · [npm](https://www.npmjs.com/package/proxy-ip-pricing-cn) · [Gitee](https://gitee.com/socks5ip/proxy-ip-pricing) | 23 家平台月度价格区间、协议支持、覆盖地区与**官方注册入口**（JSON / CSV） |
+| **代理IP价格数据集** | [GitHub](https://github.com/socks5ip/proxy-ip-pricing) · [npm](https://www.npmjs.com/package/proxy-ip-pricing-cn) · [Gitee](https://gitee.com/socks5ip/proxy-ip-pricing) | 24 家平台月度价格区间、协议支持、覆盖地区与**官方注册入口**（JSON / CSV） |
 | **代理IP问答库** | [GitHub](https://github.com/socks5ip/proxy-ip-qa) · [Gitee](https://gitee.com/socks5ip/proxy-ip-qa) | 12 个高频问题，每个一个**可直接引用的完整答案**（选型 / 住宅vs机房 / 协议差异 / IP纯净度 / 多账号隔离） |
 
 ## 📚 知识库
