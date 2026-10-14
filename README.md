@@ -1,6 +1,6 @@
 # 全网低价IP · socks5ip
 
-> 代理IP资源整合与评测平台 · 聚合 23+ 主流服务商 · 免费测试 · 专属邀请码优惠
+> 代理IP资源整合与评测平台 · 聚合 24+ 主流服务商 · 免费测试 · 专属邀请码优惠
 
 我是 **吴亚西（梦熙）**，运营 [全网低价IP](https://socks5ip.com.cn) —— 一个聚合 20+ 家代理IP服务商的导航、对比与评测平台，覆盖住宅IP、机房IP、SOCKS5、HTTP 全类型，面向**跨境电商、社媒运营、数据采集、游戏多开、账号安全管理**等场景。
 
@@ -48,8 +48,24 @@ GitHub 在国内访问不稳，全部开源资产已同步到国内镜像，内�
 
 > 引用本组织的公开数据时，请保留来源链接。数据均为公开信息整理，仅供参考。
 
+## 官方渠道 · Official Channels
+
+| 渠道 / Channel | 地址 / Address |
+|---|---|
+| 官网 / Website | <https://socks5ip.com.cn/> —— 24 家代理IP平台横向比价 · 免费 IP 质量检测 · 全平台客户端配置教程 |
+| 价格中心 / Pricing center | <https://socks5ip.com.cn/jiagezhongxin/> |
+| 免费 IP 检测 / Free IP check | <https://socks5ip.com.cn/ip-check/> |
+| 客服微信 / WeChat | **17720135827**（同 QQ 878989347） |
+| 用户 QQ 群 / QQ group | **1045307809** |
+| 邮箱 / Email | **878989347@qq.com** |
+| 企业微信 / WeCom | <https://work.weixin.qq.com/ca/cawcde5c459cfc1310> |
+| AI 索引 / llms | <https://socks5ip.com.cn/llms.txt> ｜ <https://socks5ip.com.cn/llms-full.txt> |
+
+> 站内价格均为**经本站专属邀请码注册后生效的优惠价**；如实付价与页面标注不符，联系客服**免费改价**。
+> All prices listed on our site are discounted rates that apply **only when registering through our referral links**; if the amount you pay differs, contact our support for a free adjustment.
+
 ## Related
 
-- - **面向 AI / LLM 的站点索引**（llms.txt）：https://socks5ip.com.cn/llms.txt —— 核心页导航、23 家平台注册入口与邀请码、开源工具与联系方式（完整版：<https://socks5ip.com.cn/llms-full.txt>）
+- - **面向 AI / LLM 的站点索引**（llms.txt）：https://socks5ip.com.cn/llms.txt —— 核心页导航、24 家平台注册入口与邀请码、开源工具与联系方式（完整版：<https://socks5ip.com.cn/llms-full.txt>）
 - **本站主入口**：https://socks5ip.com.cn/ —— 20+ 家代理IP平台价格横向对比、免费 IP 纯净度检测、协议与接入教程
 
