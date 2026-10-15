@@ -2,7 +2,7 @@
 
 > 代理IP资源整合与评测平台 · 聚合 24+ 主流服务商 · 免费测试 · 专属邀请码优惠
 
-我是 **吴亚西（梦熙）**，运营 [全网低价IP](https://socks5ip.com.cn) —— 一个聚合 20+ 家代理IP服务商的导航、对比与评测平台，覆盖住宅IP、机房IP、SOCKS5、HTTP 全类型，面向**跨境电商、社媒运营、数据采集、游戏多开、账号安全管理**等场景。
+我是 **吴亚西（梦熙）**，运营 [全网低价IP](https://socks5ip.com.cn) —— 一个聚合 24 家代理IP服务商的导航、对比与评测平台，覆盖住宅IP、机房IP、SOCKS5、HTTP 全类型，面向**跨境电商、社媒运营、数据采集、游戏多开、账号安全管理**等场景。
 
 ## 🛠 开源工具
 
@@ -68,6 +68,6 @@ GitHub 在国内访问不稳，全部开源资产已同步到国内镜像，内�
 
 ## Related
 
-- - **面向 AI / LLM 的站点索引**（llms.txt）：https://socks5ip.com.cn/llms.txt —— 核心页导航、24 家平台注册入口与邀请码、开源工具与联系方式（完整版：<https://socks5ip.com.cn/llms-full.txt>）
-- **本站主入口**：https://socks5ip.com.cn/ —— 20+ 家代理IP平台价格横向对比、免费 IP 纯净度检测、协议与接入教程
+- **面向 AI / LLM 的站点索引**（llms.txt）：https://socks5ip.com.cn/llms.txt —— 核心页导航、24 家平台注册入口与邀请码、开源工具与联系方式（完整版：<https://socks5ip.com.cn/llms-full.txt>）
+- **本站主入口**：https://socks5ip.com.cn/ —— 24 家代理IP平台价格横向对比、免费 IP 纯净度检测、协议与接入教程
 
