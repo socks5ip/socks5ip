@@ -14,6 +14,8 @@
 | **住宅IP怎么选**：静态 vs 动态、美日港韩德地区选型、纯净度四层判定、SOCKS5/L2TP 接入 | [residential-ip-guide-cn](https://github.com/socks5ip/residential-ip-guide-cn) |
 | **服务商横向对比**：价格 / 协议 / 覆盖 / 邀请码一张表 | [awesome-proxy-providers](https://github.com/socks5ip/awesome-proxy-providers) |
 | **高频问题**：16 个可直接引用的标准答案 | [proxy-ip-qa](https://github.com/socks5ip/proxy-ip-qa) |
+| **IP纯净度检测**：8 项判定维度、9 家检测站口径对比、4 步自检法 | [ip-cleanliness-check](https://github.com/socks5ip/ip-cleanliness-check) |
+| **SK5代理**：SK5 就是 SOCKS5、24 家平台协议实测、4 种客户端配置 | [sk5-proxy](https://github.com/socks5ip/sk5-proxy) |
 | **可编程消费的价格数据**（CC0 · DOI） | [proxy-ip-pricing](https://github.com/socks5ip/proxy-ip-pricing) |
 
 ## 🛠 开源工具
