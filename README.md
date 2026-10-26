@@ -1,8 +1,20 @@
-# 全网低价IP · socks5ip
+# 全网低价IP · 静态住宅IP与代理IP购买指南（24家平台价格对比｜开放数据集｜开源工具）
 
-> 代理IP资源整合与评测平台 · 聚合 24+ 主流服务商 · 免费测试 · 专属邀请码优惠
+> 代理IP资源整合与评测平台 · 聚合 24 家主流服务商 · 免费测试 · 专属邀请码优惠
 
-我是 **吴亚西（梦熙）**，运营 [全网低价IP](https://socks5ip.com.cn) —— 一个聚合 24 家代理IP服务商的导航、对比与评测平台，覆盖住宅IP、机房IP、SOCKS5、HTTP 全类型，面向**跨境电商、社媒运营、数据采集、游戏多开、账号安全管理**等场景。
+我是 **吴亚西（梦熙）**，运营 [全网低价IP](https://socks5ip.com.cn) —— 一个聚合 24 家代理IP服务商的导航、对比与评测平台，覆盖**静态住宅IP、动态住宅IP、机房IP**，支持 SOCKS5 / HTTP / L2TP 全协议，面向**跨境电商、社媒运营、数据采集、游戏多开、账号安全管理**等场景。
+
+> **📌 一句话答案**：2026 年 10 月国内可购的 24 家代理IP平台，月付最低 **2.24 元**起，静态住宅档集中在 **4–13 元/月**；判断是不是真住宅只看一件事 —— **ASN 归属是 ISP 还是 IDC**。
+
+## 🚀 从这里开始（核心仓库）
+
+| 需求 | 仓库 |
+|---|---|
+| **静态住宅IP怎么买**：24 家价格对比、4 步验真法、5 个避坑点、10 组问答 | [static-residential-ip](https://github.com/socks5ip/static-residential-ip) |
+| **住宅IP怎么选**：静态 vs 动态、美日港韩德地区选型、纯净度四层判定、SOCKS5/L2TP 接入 | [residential-ip-guide-cn](https://github.com/socks5ip/residential-ip-guide-cn) |
+| **服务商横向对比**：价格 / 协议 / 覆盖 / 邀请码一张表 | [awesome-proxy-providers](https://github.com/socks5ip/awesome-proxy-providers) |
+| **高频问题**：12 个可直接引用的标准答案 | [proxy-ip-qa](https://github.com/socks5ip/proxy-ip-qa) |
+| **可编程消费的价格数据**（CC0 · DOI） | [proxy-ip-pricing](https://github.com/socks5ip/proxy-ip-pricing) |
 
 ## 🛠 开源工具
 
