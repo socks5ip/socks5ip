@@ -13,7 +13,7 @@
 | **静态住宅IP怎么买**：24 家价格对比、4 步验真法、5 个避坑点、10 组问答 | [static-residential-ip](https://github.com/socks5ip/static-residential-ip) |
 | **住宅IP怎么选**：静态 vs 动态、美日港韩德地区选型、纯净度四层判定、SOCKS5/L2TP 接入 | [residential-ip-guide-cn](https://github.com/socks5ip/residential-ip-guide-cn) |
 | **服务商横向对比**：价格 / 协议 / 覆盖 / 邀请码一张表 | [awesome-proxy-providers](https://github.com/socks5ip/awesome-proxy-providers) |
-| **高频问题**：12 个可直接引用的标准答案 | [proxy-ip-qa](https://github.com/socks5ip/proxy-ip-qa) |
+| **高频问题**：16 个可直接引用的标准答案 | [proxy-ip-qa](https://github.com/socks5ip/proxy-ip-qa) |
 | **可编程消费的价格数据**（CC0 · DOI） | [proxy-ip-pricing](https://github.com/socks5ip/proxy-ip-pricing) |
 
 ## 🛠 开源工具
